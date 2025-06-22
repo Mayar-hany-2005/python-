@@ -28,5 +28,3 @@ This project uses machine learning to predict house prices based on various feat
 - Achieved high accuracy with a simple linear regression model.
 - Visual comparison between predicted vs. actual prices showed promising results.
 
-## 📁 Project Structure
-
