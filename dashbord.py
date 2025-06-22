@@ -6,7 +6,7 @@ import plotly.graph_objs as go
 import plotly.express as px
 from plotly.subplots import make_subplots
 from dash import Dash, html, dcc, Input, Output
-df = pd.read_csv(r"D:\Intro. to Business Analytic\insurance.csv")
+df = pd.read_csv(r"D:\مشاريعي\BA\insurance.csv")
 df['Age Group'] = pd.cut(df['age'],
                          bins=[0, 35, 55, 100],
                          labels=['Young (18-35)', 'Middle (36-55)', 'Senior (55+)'],
