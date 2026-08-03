@@ -48,7 +48,7 @@ pip install -r requirements.txt
 Run the app:
 
 python app.py
-Then open your browser and go to http://127.0.0.1:8050.
+Then open your browser and go to (https://mayarhany.pythonanywhere.com/)
 
 🧠 Author
 Mayar Hany Rafik
